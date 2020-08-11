@@ -1,0 +1,207 @@
+body{
+    background-color: #eeeeee;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 40px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    color: rgb(45, 45, 45);
+    font-weight: 800;
+}
+h2 {
+    font-size: 26px;
+    line-height: 40px;
+    color: rgb(45, 45, 45);
+    font-weight: 550;
+}
+nav{
+    padding: 15px 0 0 0 !important;
+}
+.navbar-toggler{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link{
+    color:#4B4B4B;
+    text-decoration: none;
+    font-size: 20px;
+    width: 250px;
+    text-transform: uppercase;
+    text-align: center;
+}
+/* sigue es borrador del compa*/
+.nav-link:hover{
+    color: #2D2D2D;
+    text-decoration: underline;
+    text-underline-position: under;
+    font-weight: 700;
+    line-height: 1.42857em;
+    vertical-align: middle;
+}
+nav .active{
+    font-weight: bold;
+    /*color: #2D2D2D*/
+    text-decoration: underline;
+    text-underline-position: under;
+    font-weight: 700;
+}
+.navbar-toggler-icon{
+    border: 1px solid #797676 !important;
+    padding: 7px;
+    width: 45px;
+    height: 37px;
+    border-radius: 3px;
+}
+a.btn {
+    background-color: black;
+    color: white;
+    border-radius: 0px;
+}
+footer{
+    background-color: white;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+i {
+    width: 50px;
+    height: 50px;
+}
+.fab{
+    width: 50px;
+    height: 50px;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.fas {
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+    padding: 10px 10px 10px 10px;
+}
+footer i {
+    font-size: 35px;
+    border: 1px solid;
+    height: 55px;
+    width: 55px;
+    text-align: center;
+    padding: 8px 0 0 0;
+    border-radius: 80px;
+    margin: 0 15px;
+}
+.p-3 {
+    padding: 1rem!important;
+}
+.fas{
+    background-color: black;
+    color: white;
+    padding: 15px 10px 10px 15px;
+    font-size: 20px;
+}
+.col-12 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    max-width: 100%;
+}
+.text-center {
+    text-align: center!important;
+}
+.form-group {
+    margin-bottom: 1rem;
+}
+.form-control {
+    background-color: #eeeeee;
+    border: 0;
+    border-bottom: 1px solid;
+    border-radius: 0px;
+}
+footer a {
+    color: black;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.col-6 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col-10{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.img-circle {
+    margin: 1em auto;
+    display: block;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: inset 5px 5px 10px 0px rgba(209,209,209,0.63);
+    border-radius: 50%;
+}
+#sobre-mi i {
+    background-color: black;
+    color: white;
+    padding: 25px 30px 25px 25px;
+    font-size: 30px;
+}
+p{
+    font-size: 17px;
+    line-height: 28px;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+
+#home{
+    background-image: url(../images/Fondos-05.png);
+    background-repeat: repeat;
+    background-size: 100%;
+    height: 81vh;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#experiencia {
+    background-color: rgb(45, 45, 45);
+}
+#experiencia h2 {
+    color: white;
+    font-size: 45px;
+}
+#experiencia h3 {
+    color: white;
+    font-size: 20px;
+}
+#experiencia h4 {
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+}
+@media (max-width: 700px){h1{font-size: 40px;}}
+
