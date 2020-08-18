@@ -25,7 +25,7 @@ $pg = "inicio"
 </head>
 
 <body>
-<div id="home" class="container-fluid">
+<div id="hola" class="container-fluid">
 
 <div class="container">
    <nav class="navbar navbar-expand-sm">
@@ -39,7 +39,8 @@ $pg = "inicio"
 <section id="hola">
 	<div class="row py-5">
 	    <div class="col-10">
-            <h1> Recibimos tu consulta <br>te respondemos a la brevedad</h1>
+            <h1> Gracias por contactarte <br></h1>
+            <p>te responderé a la brevedad</p>
            </div>
         </div>
        

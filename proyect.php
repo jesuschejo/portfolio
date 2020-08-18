@@ -55,7 +55,7 @@ $pg = "proyectos"
         <section>
         
         <div class="row my-sm-4 my-3">
-        <div class="col-sm-6 col-12 px-2 my-2">
+        <div class=" item col-sm-6 col-12 px-2 my-2" id="item2">
             <div class="bg-white">
             <img src="images/abmclientes.png" alt="ABM Ventas" class="img-fluid">
                 <div class="row p-3">
@@ -79,7 +79,7 @@ $pg = "proyectos"
             </div>
         </div>
 
-        <div class="col-sm-6 col-12 px-2 my-2">
+        <div class="item col-sm-6 col-12 px-2 my-2" id="item2">
             <div class="bg-white">
             <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
                 <div class="row p-3">

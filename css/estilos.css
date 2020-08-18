@@ -205,3 +205,9 @@ p{
 }
 @media (max-width: 700px){h1{font-size: 40px;}}
 
+.item{
+    margin: 1em;
+    padding: 1em;
+    color: #ffffff;
+    float: left;
+}

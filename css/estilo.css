@@ -155,3 +155,10 @@ footer i{
         line-height: 30px;
     }
 }
+
+p{
+    font-weight: 500;
+    color: black;
+}
+
+
